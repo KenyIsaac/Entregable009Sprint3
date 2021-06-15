@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 150000,
+      "id": 1,
+      "title": "Carta Natal",
+      "thumbnailUrl": "images/04.png"
+    },
+    {
+      "precio": 100000,
+      "id": 2,
+      "title": "Revolución Solar",
+      "thumbnailUrl": "images/03.png"
+    },
+    {
+      "precio": 75000,
+      "id": 3,
+      "title": "Horóscopo personalizado",
+      "thumbnailUrl": "images/05.png"
+    },
+    {
+      "precio": 50000,
+      "id": 4,
+      "title": "Lectura de tarot",
+      "thumbnailUrl": "images/02.png"
+    },
+    {
+      "precio": 25000,
+      "id": 5,
+      "title": "Limpiezas y baños",
+      "thumbnailUrl": "images/06.png"
+    },
+    {
+      "precio": 900000,
+      "id": 6,
+      "title": "Cursos y Talleres",
+      "thumbnailUrl": "images/08.png"
+    }
+]
